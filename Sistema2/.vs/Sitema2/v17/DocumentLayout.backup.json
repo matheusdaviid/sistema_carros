@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\matheus.david\\source\\repos\\Sistema-03-02-2025\\Sistema2\\",
+  "WorkspaceRootPath": "C:\\Users\\matheus.david\\Documents\\GitHub\\sistema_carros\\Sistema2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|c:\\users\\matheus.david\\source\\repos\\sistema-03-02-2025\\sistema2\\sitema2\\cadcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\cadcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|c:\\users\\matheus.david\\documents\\github\\sistema_carros\\sistema2\\sitema2\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|C:\\Users\\matheus.david\\source\\repos\\Sistema-03-02-2025\\Sistema2\\sitema2\\cadcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\cadcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|c:\\users\\matheus.david\\documents\\github\\sistema_carros\\sistema2\\sitema2\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{549508B2-FE3B-4F05-9F71-39DB1F48445C}|Sitema2\\Sitema2.csproj|solutionrelative:sitema2\\gerenciamento_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,26 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CadCarros.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.david\\source\\repos\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadCarros.cs",
-              "RelativeDocumentMoniker": "Sitema2\\CadCarros.cs",
-              "ToolTip": "C:\\Users\\matheus.david\\source\\repos\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadCarros.cs",
-              "RelativeToolTip": "Sitema2\\CadCarros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Title": "Gerenciamento_Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.david\\Documents\\GitHub\\sistema_carros\\Sistema2\\Sitema2\\Gerenciamento_Clientes.cs",
+              "RelativeDocumentMoniker": "Sitema2\\Gerenciamento_Clientes.cs",
+              "ToolTip": "C:\\Users\\matheus.david\\Documents\\GitHub\\sistema_carros\\Sistema2\\Sitema2\\Gerenciamento_Clientes.cs*",
+              "RelativeToolTip": "Sitema2\\Gerenciamento_Clientes.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswFkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T12:41:35.173Z",
+              "WhenOpened": "2025-02-18T14:14:18.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CadCarros.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\matheus.david\\source\\repos\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadCarros.cs",
-              "RelativeDocumentMoniker": "Sitema2\\CadCarros.cs",
-              "ToolTip": "C:\\Users\\matheus.david\\source\\repos\\Sistema-03-02-2025\\Sistema2\\Sitema2\\CadCarros.cs [Design]",
-              "RelativeToolTip": "Sitema2\\CadCarros.cs [Design]",
+              "Title": "Gerenciamento_Clientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\matheus.david\\Documents\\GitHub\\sistema_carros\\Sistema2\\Sitema2\\Gerenciamento_Clientes.cs",
+              "RelativeDocumentMoniker": "Sitema2\\Gerenciamento_Clientes.cs",
+              "ToolTip": "C:\\Users\\matheus.david\\Documents\\GitHub\\sistema_carros\\Sistema2\\Sitema2\\Gerenciamento_Clientes.cs [Design]*",
+              "RelativeToolTip": "Sitema2\\Gerenciamento_Clientes.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T11:30:18.456Z"
+              "WhenOpened": "2025-02-18T14:12:59.999Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },

@@ -64,6 +64,7 @@
             this.buttonRemoverClientes.TabIndex = 2;
             this.buttonRemoverClientes.Text = "Remover Clientes";
             this.buttonRemoverClientes.UseVisualStyleBackColor = true;
+            this.buttonRemoverClientes.Click += new System.EventHandler(this.buttonRemoverClientes_Click);
             // 
             // buttonFechar
             // 

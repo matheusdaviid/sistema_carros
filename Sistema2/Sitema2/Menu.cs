@@ -30,14 +30,19 @@ namespace Sitema2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //ConsultaCliente form = new ConsultaCliente();
-           // form.ShowDialog();
+            Gerenciamento_Clientes form = new Gerenciamento_Clientes();
+            form.ShowDialog();
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
             CadCarros form = new CadCarros();
             form.ShowDialog();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+          
         }
     }
 }
